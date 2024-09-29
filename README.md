@@ -20,7 +20,7 @@ This project is a simple currency converter application built with React, Vite, 
 - Automatically fetches updated exchange rates every time a new conversion is requested
 
 ## Demolink add krdiyo yha direct.com
-You can view the live version of this project: [here](http://https://currency-converter-akshayrawat.netlify.app).
+You can view the live version of this project: [here](http://currency-converter-akshayrawat.netlify.app).
 
 ## Getting Started
 
