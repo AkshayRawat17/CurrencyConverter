@@ -19,8 +19,8 @@ This project is a simple currency converter application built with React, Vite, 
 - Option to switch between major world currencies
 - Automatically fetches updated exchange rates every time a new conversion is requested
 
-## Demo
-You can view the live version of this project [here](https://link add krdiyo yha direct.com).
+## Demolink add krdiyo yha direct.com
+You can view the live version of this project [here](https://https://currency-converter-akshayrawat.netlify.app).
 
 ## Getting Started
 
